@@ -1,3 +1,3 @@
 # Shoppin-Crawler
 
-[!Design](./design.excalidraw.png)
+![Design](./design.excalidraw.png)
